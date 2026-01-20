@@ -1,2 +1,6 @@
 weijie
+<<<<<<< HEAD
 cccc
+=======
+cccccc
+>>>>>>> 7a9936c8c13d1f09bd09593171ecc0758de0c72f
